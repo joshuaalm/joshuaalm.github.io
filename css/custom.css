@@ -1,0 +1,7 @@
+.gallery {
+    grid-template-columns: 3;
+}
+
+.gallery > iframe {
+    grid-auto-flow: row;
+}
