@@ -1,5 +1,5 @@
 .gallery {
-    grid-template-columns: 3;
+    grid-template-columns: masonry;
     grid-gap: 20px;
 }
 
